@@ -1,3 +1,3 @@
 = Read Me First
 
-This repository has been created to track issues in the https://kantarainitiative.org/confluence/display/PEMCP/Privacy+Enhancing+Mobile+Credentials+%28PEMC%29+Home[Privacy Enhancing Mobile Credential Work Group].
+This repository has been created to track issues in the https://kantarainitiative.org/confluence/display/PEMCP/Privacy+Enhancing+Mobile+Credentials+%28PEMC%29+Home[Privacy Enhancing Mobile Credential Work Group]. Which explains that "The purpose of the work-group is to create a set of requirements and conformance criteria to protect the privacy of individuals holding or using mobile credentials such as mobile Driving Licenses"
